@@ -25,3 +25,4 @@ Processos para conseguir rodar o app:
 * Projeto realizado pelo aluno: <strong>Lucas Martins</strong> da Residência em TIC/Software (Serratec) 2022.2 📢;
 * Agradecimento especial ao nosso professor Frederico Henrichs Sheremetieff, que passou essa matéria para a turma 👏;
 
+ 
