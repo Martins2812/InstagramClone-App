@@ -81,7 +81,7 @@ export const styles = StyleSheet.create({
     cadastrar: {
         textAlign: 'center',
         fontSize: 12.5,
-        paddingTop: 120 
+        paddingTop: 125
     },
     textoBold: {
         fontWeight: 'bold'
